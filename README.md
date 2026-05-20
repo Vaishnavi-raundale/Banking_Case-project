@@ -31,16 +31,16 @@ Banking-Analytics/
 ## Dashboard Preview
 
 ### Home Dashboard
-![Home Dashboard](images/banking%20dashboard.png)
+![Home Dashboard](images/banking%20dashboard.jpeg)
 
 ### Deposit Analysis
-![Deposit Analysis](images/deposit%20analysis.png)
+![Deposit Analysis](images/deposit%20analysis.jpeg)
 
 ### Loan Analysis
-![Loan Analysis](images/loan%20analysis.png)
+![Loan Analysis](images/loan%20analysis.jpeg)
 
 ### Summary Dashboard
-![Summary Dashboard](images/summary.png)
+![Summary Dashboard](images/summary.jpeg)
 
 ---
 ---
