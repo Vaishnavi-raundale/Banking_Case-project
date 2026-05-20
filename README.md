@@ -1,4 +1,4 @@
-# 🏦 Banking Customer Analytics Dashboard
+# Banking Customer Analytics Dashboard
 
 End-to-end banking customer analytics project with MySQL database setup, Python EDA (pandas, seaborn, matplotlib), and a 4-page interactive Power BI dashboard analyzing loans, deposits, and customer segmentation across 3,000 clients.
 
@@ -26,10 +26,26 @@ Banking-Analytics/
 ├── requirements.txt
 └── README.md
 ```
-
 ---
 
-## ⚙️ Setup
+## Dashboard Preview
+
+### Home Dashboard
+![Home Dashboard](images/banking%20dashboard.png)
+
+### Deposit Analysis
+![Deposit Analysis](images/deposit%20analysis.png)
+
+### Loan Analysis
+![Loan Analysis](images/loan%20analysis.png)
+
+### Summary Dashboard
+![Summary Dashboard](images/summary.png)
+
+---
+---
+
+## Setup
 
 ### 1. Clone the repo
 ```bash
@@ -86,7 +102,7 @@ Slicers available: Joining Year · Gender · Banking Relationship · Institution
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 `MySQL` · `Python` · `Pandas` · `Seaborn` · `Matplotlib` · `SQLAlchemy` · `Power BI`
 
